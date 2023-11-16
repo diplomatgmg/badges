@@ -12,3 +12,6 @@ npm init -D @eslint/config
     "presets": ["@babel/preset-env"]
   },
 ```
+
+[codeclimate guthub settings](https://github.com/paambaati/codeclimate-action)
+
