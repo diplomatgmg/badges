@@ -6,4 +6,8 @@ function multiply(a, b) {
   return a * b;
 }
 
-export { add, multiply };
+function mul(a, b) {
+  return a - b;
+}
+
+export { add, multiply, mul };
