@@ -3,6 +3,12 @@
 
 ```bash
 npm init -y &&
-npm install -D jest @babel/core @babel/preset-env
+npm install -D jest @babel/core @babel/preset-env  &&
 npm init -D @eslint/config
+```
+
+```json
+  "babel": {
+    "presets": ["@babel/preset-env"]
+  },
 ```
